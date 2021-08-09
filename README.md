@@ -1,2 +1,2 @@
 # desafio-github
-Desafio de projeto Git/GitHub da DIO
+Repositório criado para os desafios de códigos resolvidos nos bootcamps da Digital Innovation One
